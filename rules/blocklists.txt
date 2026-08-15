@@ -82,7 +82,6 @@
 03h6fpes.xyz
 03in08p3r1.com
 03mhpavj25.com
-03t441b8w.com
 03wa.com
 041599.com
 043h.com
@@ -1929,7 +1928,6 @@
 4q.iperceptions.com
 4qinvite.4q.iperceptions.com
 4rabettraff.com
-4rfns9bmp1.com
 4rm.de
 4ro76m7k2n.com
 4rt3.artepura.it
@@ -9987,7 +9985,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -10055,6 +10052,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15077,7 +15075,6 @@ alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -16058,6 +16055,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -18209,6 +18207,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -18826,7 +18825,6 @@ antivirusjob.com
 antivirussecuritypro.com
 antiwargorgonseburine.cyou
 antlerlode.com
-antlermaze.com
 antlerrhinoceros.com
 antliaredried.com
 antlidgambir.shop
@@ -21436,6 +21434,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -31842,7 +31841,6 @@ capicst.ia-atendente.com
 capicst.pretzeladv.online
 capidm.cocoons.com
 capifb.kidzfunbd.com
-capifb.raidobd.com
 capig.10fitness.com
 capig.adaptorclothing.com
 capig.altlifeagency.com
@@ -33585,7 +33583,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.starseed.fr
@@ -33712,7 +33709,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
@@ -41239,7 +41235,6 @@ cts.w55c.net
 cts2.exelbid.com
 ctsdwm.com
 ctslobepowwows.qpon
-ctsp4jao1.com
 ctsunpcmtdozi.site
 ctt-prsotes.top
 cttnmjpplccxm.website
@@ -46424,7 +46419,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -54462,6 +54456,7 @@ ecommercegoodies.com
 ecommhpi.ext.hp.com
 ecommstats.com
 ecommstats.s3.amazonaws.com
+ecommunication.mti.com
 ecomsend.com
 econda-monitor.de
 economicadvantage.midamerican.com
@@ -55114,7 +55109,6 @@ ehmnhw.moncoupdepouce.com
 ehnhh.statefortyeight.com
 ehnuqh.meilleurtaux.com
 ehoeb.ekster.com
-ehox67pahs.com
 ehqot.southtree.com
 ehqufypefcfkx.site
 ehrlgb.izlato.sk
@@ -59606,13 +59600,16 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -61184,7 +61181,6 @@ findav.net
 findav.org
 findbetterresults.com
 findcalculator.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -63032,6 +63028,7 @@ freefr-fixed.mno.link
 freefromads.com
 freefromads.pro
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -66922,7 +66919,6 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
-go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -76238,7 +76234,6 @@ i5.akjunshi.com
 i5.createsend1.com
 i5ixiwch2f.themakersmob.com
 i5le8m3qxs.com
-i5q1t8vj9.com
 i5qquywfz.com
 i5rd6bukys.com
 i5rp73ne9h.com
@@ -81978,7 +81973,6 @@ j3lbpcd9.r.us-east-1.awstrack.me
 j3m2qphy2cipleohzxqt.cfd
 j3pppawxbz.cfd
 j423.oneidadispatch.com
-j4mxrs21gh.com
 j4s12kfavg.com
 j5sgdum5n4.com
 j5w9c.top
@@ -84483,6 +84477,7 @@ kaminari.space
 kaminari.systems
 kamint.ru
 kamiyatabinet.cyou
+kamju.cestlavie-newyork.com
 kamleshyadav.com
 kamoiimclmryu.space
 kamoni.com
@@ -96901,7 +96896,6 @@ m1e.net
 m1jm3nzf2.com
 m1rs.com
 m1tm.motor1.com
-m1vvvv1k2.com
 m2.ai
 m2.alcmpn.com
 m2.da.mgtv.com
@@ -100691,7 +100685,6 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -107575,7 +107568,6 @@ my.electricbalance.com
 my.exotravel.com
 my.fatchilli.media
 my.fr.top4running.be
-my.haircarewithsahara.com
 my.hellobar.com
 my.iheart.com
 my.iheartradio.com
@@ -117912,7 +117904,6 @@ p3p.sogou.com
 p3p.yahoo.com
 p46140.clksite.com
 p4dc8ve6i.com
-p4gdt4um6.com
 p4psearch.china.alibaba.com
 p4r24.eu
 p50523.clksite.com
@@ -122821,7 +122812,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -125610,6 +125600,7 @@ pvd.to
 pvdbkr.com
 pvdnugjwyrkad.website
 pvdpix.com
+pvdynatracegw01.cosmote.gr
 pveja.heydude.de
 pveldvvjrvgru.site
 pvfbav.sportler.com
@@ -135464,7 +135455,6 @@ s.35kds.com
 s.360.cn
 s.4cola.com
 s.6hd49jng.com
-s.6travel.com
 s.aaxads.com
 s.abcache.com
 s.aboutcompanions.com
@@ -136105,7 +136095,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -139186,7 +139175,6 @@ securecookiesdustininfo.dustinhome.se
 secured-app-telemetry.growwinfra.in
 secured.bitcoinira.com
 secured.online.avon.com
-securedata.aiper.com
 securedata.aiper.store
 securedata.berlook.com
 securedata.bestellen-mijnspar.be
@@ -150802,6 +150790,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -160429,6 +160418,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -193062,6 +193052,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -198197,7 +198188,6 @@ ygxmyhimubyyl.website
 ygxqjz.intersport.fi
 yh.poramorart.ca
 yh.rostelshute.shop
-yh823ogu6b.com
 yhb.mybluehost.me
 yhbatwdehlcrz.website
 yhbcii.com
@@ -199409,6 +199399,7 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
