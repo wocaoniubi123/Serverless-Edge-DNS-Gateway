@@ -34,7 +34,7 @@ const MULLVAD_UPSTREAM_ENABLED = true;
 const MULLVAD_UPSTREAM_URL = '/rules/mullvad_upstream.txt';
 
 // /debug endpoint — set to true only when needed, false by default to avoid unnecessary requests
-const DEBUG_ENABLED = false;
+const DEBUG_ENABLED = true;
 
 // Pre-compiled regex patterns for performance
 const IPV4_MAPPED_REGEX = /^::ffff:(\d+\.\d+\.\d+\.\d+)$/i;
