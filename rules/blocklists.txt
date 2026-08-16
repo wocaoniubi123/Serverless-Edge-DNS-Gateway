@@ -5844,6 +5844,7 @@ abc.can-doc.de
 abc.capinifirenze.com
 abc.cda-hd.co
 abc.citygame.com
+abc.colayun.cn
 abc.decorationathome.fr
 abc.devries-home.de
 abc.douguo.com
@@ -11455,6 +11456,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -15093,6 +15095,8 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -18223,6 +18227,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -21452,6 +21457,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -22324,7 +22330,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -23899,7 +23904,6 @@ aw.dw.impact-ad.jp
 aw.kanaimacercis.shop
 aw1.accuradio.com
 awaitingcoordinatelassitude.com
-awakecedesurplus.com
 awakeexterior.com
 awalitsystems.com
 awaps.yandex.net
@@ -33626,6 +33630,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.starseed.fr
@@ -33905,6 +33910,7 @@ cdnfreemalva.com
 cdngain.com
 cdnhst.xyz
 cdnil.clarisite.com
+cdnimg.liehu.ijinshan.com
 cdnis.hyperpromote.com
 cdnjs.atresmedia.com
 cdnjs.contentsprinter.xyz
@@ -46485,6 +46491,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -51731,6 +51738,7 @@ douchegibbets.shop
 doucheraisiny.com
 doug1izaerwt3.cloudfront.net
 dougfructus.cyou
+doughgenuinelypreviously.com
 doughtalk.com
 douglasgmbh.tt.omtrdc.net
 douglasjamestraining.com
@@ -66286,7 +66294,6 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -68200,6 +68207,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -72204,7 +72212,6 @@ guppy.omana.me
 guppymedia.com
 guqdio.team
 guqpe.oceanmosaics.com
-guqwjxedurdjv.com
 gurgle.mashable.com
 gurgle.pcmag.com
 gurgle.speedtest.net
@@ -77276,7 +77283,6 @@ iicvdlmypkugr.space
 iid-network.jp
 iidoys.wearpact.com
 iidpomfgxqpgx.online
-iidvopxi.com
 iieuv.thertastore.com
 iieze.honeybirdette.com
 iigcqr.linio.com.mx
@@ -77339,7 +77345,6 @@ ijgtudf.kozii.com
 ijh.mybluehost.me
 ijhlca.lulus.com
 ijifwb.green-acres.fr
-ijinshan.com
 ijj161xjtohopxh33h7y1ryiub.cfd
 ijjlo.raphablends.com
 ijjnyauzmqxoq.website
@@ -83352,6 +83357,7 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
+jordan.qunis.ru
 jordan.zcdn.click
 jordans.gr
 jornal.tesouros-da-julia.com
@@ -84839,7 +84845,6 @@ kchomo.tennis.com.co
 kcjmivforjixu.online
 kcjrn.restaurant.com
 kcl.mybluehost.me
-kclapbqf.com
 kcldlqybhdgdk.site
 kcm1926.top
 kcoktkhntiubu.online
@@ -117683,7 +117688,6 @@ oxu24.com
 oxv.mybluehost.me
 oxvdjvdteyeai.online
 oxvmctwdsernj.site
-oxvqvbspesgzz.com
 oxvzxk.carriere-info.fr
 oxwlhazto.com
 oxworttousche.cfd
@@ -118659,7 +118663,6 @@ parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
 parbatekolkozyimblaze.qpon
-parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -123003,6 +123006,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -135806,6 +135810,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -151017,7 +151022,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -158003,7 +158007,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
@@ -163536,6 +163539,7 @@ stape.marcelirodrigues.com.br
 stape.marcelomegasom.com.br
 stape.marcelopimentel.com.br
 stape.marciabrum.com.br
+stape.marcofurniture.com.au
 stape.marcondesmadureira.com
 stape.marcosbautitz.com.br
 stape.marcosbertoleti.com.br
@@ -181343,7 +181347,6 @@ try.opera.com
 try.tableau.com
 tryane.com
 trychameleon.com
-tryclubdab.live
 trygloramd-ss.checkoutera.com
 trygravity.ai
 trylumaguide.com
@@ -184909,6 +184912,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -194214,7 +194218,6 @@ www.jshonghuadq.com
 www.juicer.cc
 www.juicyads.com
 www.justpremium.com
-www.jutou5.com
 www.juzi.cn
 www.jystea.com
 www.k3bos.com
