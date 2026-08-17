@@ -10004,6 +10004,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -10071,7 +10072,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -13570,6 +13570,7 @@ affiliates.thrixxx.com
 affiliates.treasureisland.com
 affiliates.ultrahosting.com
 affiliates.videoslots.com
+affiliates.vpn.ht
 affiliates.woodbrass.com
 affiliates.xapads.com
 affiliatesensor.com
@@ -15096,7 +15097,6 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
@@ -33777,7 +33777,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zamunda.ru
+cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -57042,7 +57042,6 @@ eomke.lodgecastiron.com
 eonads.com
 eondunpea.com
 eonline.tt.omtrdc.net
-eonmxd.urban-research.jp
 eonsmedia.com
 eontent.streamplay.to
 eonwuljgmyjep.site
@@ -60809,7 +60808,6 @@ fgn-plausible.serverable.com
 fgn.me
 fgnvnqsoqehlp.space
 fgoqfrzcwdmrh.online
-fgosob.unhcr.it
 fgp.philacct.com
 fgqcg.promixx.com
 fgqxcz.thehipstore.co.uk
@@ -61343,7 +61341,6 @@ findav.net
 findav.org
 findbetterresults.com
 findcalculator.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -68278,7 +68275,6 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
-grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -83246,7 +83242,6 @@ jnl7d8fsqlfo91xd.hudl.com
 jnlenb.icu
 jnlevhmebqcxc.website
 jnljmuyjaiohr.online
-jnmbjawe.com
 jnmdsgks.nordicoil.fr
 jnmqhpecyjrnf.online
 jnohm.stuartweitzman.com
@@ -84970,6 +84965,7 @@ kdjyejumiotmh.online
 kdkgorjbvlxjrnv.com
 kdkhip.bookoffonline.co.jp
 kdkpsqklemvnu.site
+kdl.huaxinsp.cn
 kdl.kiddothelabel.com
 kdloikam.rescuemetrics.com
 kdluiznnaekvy.space
@@ -99685,7 +99681,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -100937,7 +100932,6 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -151194,6 +151188,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -157075,7 +157070,6 @@ ss.shop.nittonoton.com
 ss.shop.pupskool.com
 ss.shop.wildgut.co.uk
 ss.shopglobalbd.com
-ss.shopitiendamx.com
 ss.shopnumph.de
 ss.shoporthevia.com
 ss.shopwhiteelm.com
@@ -158182,7 +158176,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -171678,7 +171672,6 @@ tanceteventu.com
 tanga.ojrq.net
 tanganetwork.com
 tanganrss.com
-tangerine.optika-oftalmos.si
 tangerineprestigiousbehaved.com
 tangerskinker.cfd
 tangible-guarantee.pro
@@ -172306,6 +172299,7 @@ tbbvb.lyleandscott.com
 tbbzc.trtltravel.com
 tbdhap.gamesonly.at
 tbe.mybluehost.me
+tbe.tom.ru
 tbedl.knix.ca
 tbex.ru
 tbezwqeyyioqa.site
@@ -188923,7 +188917,6 @@ vsqyaz.sweetwater.com
 vsr.rotas69.lv
 vsr4jyjpzb.com
 vsrttzvdtihei.site
-vssid.cc
 vsspdabuuewzo.space
 vst.c.appier.net
 vst.dfn-network.pro
@@ -193561,6 +193554,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
