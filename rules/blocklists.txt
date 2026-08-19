@@ -10192,6 +10192,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -10259,7 +10260,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15360,7 +15360,6 @@ alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -16392,6 +16391,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -22451,7 +22451,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -28506,6 +28505,7 @@ biaxalwoibe.com
 bibasicsmriti.cfd
 bibberwarth.cfd
 bibeidh46.cc
+bibeidh48.cc
 bibglj.timberland.fr
 bibiannexa.shop
 bibigor.com
@@ -35687,7 +35687,6 @@ cdn.timetravel-vienna.at
 cdn.titan26-ns.mse-raven.com
 cdn.topmind.io
 cdn.topsrvimp.com
-cdn.toysforall.eu
 cdn.tpmedia.online
 cdn.track.olx.com.br
 cdn.trackclicks.info
@@ -35778,7 +35777,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -41586,6 +41584,7 @@ control.wirkaufens.at
 control.wirkaufens.de
 control2.tvinteractive.tv
 controlcookies.com
+controle.albinoechecoliadv.com.br
 controlemeta.orodrigogurgel.com.br
 controlexpenses.adp.ca
 controlgroup.com
@@ -67013,6 +67012,7 @@ findav.net
 findav.org
 findbetterresults.com
 findcalculator.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -70150,7 +70150,6 @@ g.baidu.com
 g.bbe-insider.com
 g.beesbuzz.biz
 g.bing.com
-g.bitauto.com
 g.blissdiamond.com
 g.bottleplus.com
 g.btc-echo.de
@@ -72952,6 +72951,7 @@ glxsos.site
 glxta.site
 glxtest.site
 glycumute.shop
+glymanicale.com
 glymqvvctmdkx.site
 glyoxalkoibal.cfd
 glyrcioxzpvvh.site
@@ -74764,6 +74764,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -77459,7 +77460,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -81014,7 +81014,6 @@ guandads.com
 guang.sdsgwy.com
 guang1.zhakao.cn
 guangzhuiyuan.com
-guanjiabo.net
 guanoo.net
 guanswholely.cfd
 guaolassikyshachly.qpon
@@ -97687,7 +97686,6 @@ lbkvxrzvqveom.online
 lblscpmfxuzqq.space
 lbmznmoboxffo.online
 lbn.mybluehost.me
-lbn.ru
 lbnku.doggielawn.com
 lbnrrh.autouncle.dk
 lborikfrxkooz.online
@@ -106579,6 +106577,7 @@ logw.boyuanhulian.com
 logx-experimentation.iherb.com
 logx.optimizely.com
 logxp.ru
+logz.ru
 logz.tekiusa.com
 logz.tekiusa.com.cdn.cloudflare.net
 logzh.dantocmiennui.vn
@@ -107706,6 +107705,7 @@ luxope.com
 luxq8.com
 luxtrailer.bowlus.com
 luxup.ru
+luxup2.ru
 luxupadva.com
 luxupcdna.com
 luxupcdnb.com
@@ -115171,7 +115171,6 @@ metrics.okcashbag.com
 metrics.olgaintimates.com
 metrics.omegawatches.com
 metrics.omniture.com
-metrics.omya.com
 metrics.onceuponafarmorganics.com
 metrics.ondacero.es
 metrics.onewegg.com
@@ -115306,7 +115305,6 @@ metrics.prod.cvshealth.com
 metrics.prod.ext-svc.rover.com
 metrics.production.collecting.com
 metrics.production.parentsquare.com
-metrics.products.omya.com
 metrics.professionalequipment.com
 metrics.profi-shop-franz.de
 metrics.profishop.nl
@@ -115528,7 +115526,6 @@ metrics.shinseibank.com
 metrics.shiremedinfo.com
 metrics.shoedazzle.com
 metrics.shoestring.nl
-metrics.shop.omya.com
 metrics.shop.superstore.ca
 metrics.shop.verpackung.de
 metrics.shop.wunschgutschein.at
@@ -128757,7 +128754,6 @@ old.indoleads.com
 old.kurs.com.ua
 old.livejasmin.com
 old.umcl.us
-old2.pornosporn.com
 oldckd.vb.com.br
 oldcname.ieasyclick.net
 olderdisciplinary.com
@@ -131633,7 +131629,6 @@ p2.wncit.com
 p20190001.demdex.net
 p21-ad-sg.ibyteimg.com
 p215223.clksite.com
-p215223.inclk.com
 p216157.clksite.com
 p220333.clksite.com
 p232207.clksite.com
@@ -131656,7 +131651,6 @@ p2hn.nxvi538uztec7h125.cyou
 p2muoczf5.com
 p2p-punch-v6.xxpkg.com
 p2p-punch.xxpkg.com
-p2p.huya.com
 p2p.qq.com
 p2pdh.com
 p2perrorlog.douyucdn.cn
@@ -132335,6 +132329,7 @@ parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
 parbatekolkozyimblaze.qpon
+parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -151144,6 +151139,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -168688,7 +168684,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -175200,7 +175195,6 @@ ss.maxis.dk
 ss.maysaafragrances.co.uk
 ss.mbagtp.com.au
 ss.mc-importen.dk
-ss.mcgendigital.com
 ss.meadlumber.com
 ss.medexsupply.com
 ss.medicalsbd.com
@@ -177274,7 +177268,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -178123,7 +178116,6 @@ sst.brepen.sk
 sst.brevixshop.com
 sst.brewberrycoffee.com
 sst.bright-footwear.com
-sst.brightauctions.com
 sst.brightcompetitions.co.uk
 sst.brightcovers.com
 sst.brighthorizonspsychiatry.com
@@ -181002,6 +180994,7 @@ sst.reflections-copenhagen.com
 sst.reftech.cz
 sst.refurbished.nl
 sst.rehcore.com
+sst.reilink.com
 sst.reim.no
 sst.reinpeptides.com
 sst.reisknaller.nl
@@ -184046,6 +184039,7 @@ stape.dukctproducoes.com
 stape.dumaxclean.com
 stape.duopet.com.br
 stape.durasa.com.br
+stape.durata.com.br
 stape.dynamusacademia.com.br
 stape.e431.jp
 stape.easybuilder.com.br
@@ -192859,7 +192853,6 @@ t.virginiasports.com
 t.visby.pl
 t.visit.disneydestinations.com
 t.vistasancheztrancon.com
-t.visx.net
 t.vitaliasupplements.co
 t.vitori.de
 t.voyages-sncf.com
@@ -194767,7 +194760,6 @@ tbm.snssdk.com
 tbmgyz.centerparcs.de
 tbmods.ru
 tbmoxtvskajqz.space
-tbn.ru
 tbp.be-performance.com
 tbpot.com
 tbpqwn.thestones.co.kr
@@ -198520,6 +198512,7 @@ tovkak.execupgrades.com
 towardconnectionsbat.com
 toweleyewitnessrubbing.com
 towercanarias.com
+towerchico.cyou
 towerhavenet.com
 toweringanswer.com
 towersflimsy.com
@@ -203881,7 +203874,6 @@ trends.mobile.sina.cn
 trends.newsmaxwidget.com
 trends.privacywall.org
 trends.revcontent.com
-trendsbongo.com
 trendy-video-app.com
 trendypersons.com
 trenrasius.com
@@ -215319,6 +215311,7 @@ webts.adac.de
 webttracking.de
 webtuna.com
 webtuneup.avg.com
+webturn.ru
 webtv-sexe.com
 webunder.ru
 webuyanyphone.ojrq.net
