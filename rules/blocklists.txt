@@ -95,7 +95,6 @@
 058d79990c.com
 0597qc.com
 05b9daf35c.com
-05block.com
 05e76a16b8.5e3d5f480f.com
 05f3b6b187.com
 0618b93770.com
@@ -1830,6 +1829,7 @@
 48dswtxkw.com
 48q1m7qfh4c4cr195g8fhrpv1.cfd
 48r3l2u5l2.com
+48z7wyjdsywu.www.revistaferramental.com.br
 4984435e26.com
 49a15e8b76.com
 49dlt9myv.com
@@ -10258,6 +10258,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15359,7 +15360,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -15840,7 +15840,6 @@ amdcopen.m.taobao.com
 amedjvl.dpp-shop.com
 amelatrina.com
 amendedobes.cfd
-amendmentbutterfly.com
 amendmentinsistdevotion.com
 amendmentlakeinterim.com
 amenrecorder.com
@@ -18756,7 +18755,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -21974,7 +21972,6 @@ app.energiedirect.at
 app.engage.jio.com
 app.engineering.sae.org
 app.entertainment.comcast-spectacor.com
-app.etsumartincenter.org
 app.eu.amplitude.com
 app.eu.securiti.ai
 app.events.ticketswest.com
@@ -23494,6 +23491,7 @@ asd.mrporkamo.com
 asd.my-downloader.com
 asd.sincetrade.com
 asd.tynt.com
+asdasdad.net
 asdccxpbkxzme.space
 asde.getstride.com
 asdfix.com
@@ -28454,7 +28452,6 @@ bhs.sunday-usa.com
 bhs.supersmokes.ca
 bhs.superspeciosa.com
 bhs.synthesispeptides.co
-bhs.the-plug.is
 bhs.the420crew.com
 bhs.thepeppen.com
 bhs.thesrproject.com
@@ -38218,7 +38215,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -43609,6 +43605,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -65788,6 +65785,7 @@ fbs.smoot.apple.com
 fbsfqg.lets-slim.co.kr
 fbsg.fayebsg.com
 fbskk.lavantcollective.com
+fbss.magiclifebd.com
 fbss.reviewscard.com
 fbss.uniquefoodsbd.com
 fbsskb.atono2.com
@@ -72649,6 +72647,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -77004,6 +77003,7 @@ gtm.equipilatesbr.com
 gtm.era.dk
 gtm.erectieexpert.nl
 gtm.ericadourado.com.br
+gtm.ericorenato.com.br
 gtm.erikaaragao.com.br
 gtm.eriklopez.com.br
 gtm.errezetaevents.com
@@ -77469,6 +77469,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -81030,7 +81031,6 @@ guanswholely.cfd
 guaolassikyshachly.qpon
 guarantee-cdn.com
 guarapototes.com
-guardality-ss.dealshopa.com
 guardaly-ss.checkoutera.com
 guardan.io
 guardbyte.xyz
@@ -87221,7 +87221,6 @@ images.groupcommunications.royalmail.com
 images.h.analog.com
 images.health.hendricks.org
 images.health.stlukes-stl.com
-images.healthlink.rsfh.com
 images.hitwise.co.uk
 images.hlipublishing.com
 images.holtcat.com
@@ -97611,6 +97610,7 @@ layer.dhg-marketing.de
 layer.lima-city.de
 layermedia-adserver.de
 layerpalier.shop
+layerrepeatedlychancy.com
 layingframingcomrade.com
 layout08062025.shop
 layouthonouredbuyer.com
@@ -100599,7 +100599,6 @@ load.data.camperboards.de
 load.data.carma.ch
 load.data.cavort.de
 load.data.cendanadental.com
-load.data.coastangels.co.uk
 load.data.collideascope.co
 load.data.coquedirect.fr
 load.data.cre8or.ai
@@ -118298,6 +118297,7 @@ mo.gatsbykynurin.com
 mo.gushiji.cc
 mo.haloapps.cn
 mo.kugou.com
+mo.res.wpscdn.cn
 mo.tb2track.pro
 mo0lqi51s1.com
 mo2dll.win123888.com
@@ -121425,6 +121425,7 @@ napthe.me
 napthe.online
 napthe.pro
 napthe24h.com
+napthe360.com
 naptheaz.com
 napthee.vn
 naptheff.net
@@ -136916,7 +136917,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -137549,6 +137549,7 @@ preflight.mopub.com
 preformbiunial.com
 preg.tradelg.net
 pregmatookles.com
+pregnantskipper.com
 prehook.com
 prehurl.com
 preitem.wshareit.com
@@ -145712,6 +145713,7 @@ redirectbisnis4dsafest.com
 redirectchannel.net
 redirecthitnspin.com
 redirectingat.com
+redirectnative.com
 redirectpopads.com
 redirectthisclick.com
 redirectvoluum.com
@@ -150512,7 +150514,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.draqarys.com
@@ -151146,6 +151147,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -188089,7 +188091,6 @@ stats.konfou.xyz
 stats.krauss-gmbh.com
 stats.kroger.com
 stats.ksearchnet.com
-stats.ksiegoboty.pl
 stats.ksmets.be
 stats.ksr.onl
 stats.kwanok.me
@@ -189101,6 +189102,7 @@ stockbook-ads.firebaseapp.com
 stockbook-ads.firebaseio.com
 stockerator.com
 stockfree.download
+stockingchancymagically.com
 stockingsfiddlesophisticated.com
 stockingsleet.com
 stockingsneeze.com
@@ -208899,6 +208901,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -210055,6 +210058,7 @@ v2.gdt.qq.com
 v2.img.360kuai.com
 v2.jiathis.com
 v2.kiahdi.biz
+v2.log.hunantv.com
 v2.log.mgtv.com
 v2.phb123.com
 v2.pixel.djp.data.newscorp.com
@@ -216870,7 +216874,6 @@ woefifty.com
 woefxy.monicaroom.com
 wof.wordonfire.org
 woffxxx.com
-wofuksvmcldep.website
 wogaa.demdex.net
 wogaa.sg
 wogglecrudes.shop
@@ -217914,7 +217917,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -222741,7 +222743,6 @@ xxxmangasex.com
 xxxmatch.com
 xxxmms3.watch
 xxxoh.com
-xxxpics4you.com
 xxxskrftgrexg.online
 xxxssv.jeulia.com
 xxxtraffic.biz
@@ -224785,7 +224786,6 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
