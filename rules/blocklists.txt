@@ -7832,7 +7832,6 @@ ad.uwm.edu
 ad.v6.kuaishou.cn
 ad.vacanceo.com
 ad.val.jp
-ad.velomania.ru
 ad.vera.bet.br
 ad.verda2.akadns.net
 ad.video-mech.ru
@@ -7893,7 +7892,6 @@ ad0.haynet.com
 ad01.mediacorpsingapore.com
 ad01.tmgrup.com.tr
 ad1.adfarm1.adition.com
-ad1.arixo.shop
 ad1.bigmir.net
 ad1.doublepimp.com
 ad1.emule-project.org
@@ -7924,7 +7922,6 @@ ad2-trafficgate-net.gslb.rdcnw.net
 ad2.360yield.com
 ad2.adfarm1.adition.com
 ad2.apx.appier.net
-ad2.arixo.shop
 ad2.bannerhost.ru
 ad2.bloggerads.net
 ad2.cdns.turn.com
@@ -7967,7 +7964,6 @@ ad2iction.com
 ad2the.net
 ad3.adfarm1.adition.com
 ad3.apx.appier.net
-ad3.arixo.shop
 ad3.cross-a.net
 ad3.doublepimp.com
 ad3.eu
@@ -7980,7 +7976,6 @@ ad360.vn
 ad380.com
 ad3g.com
 ad4.adfarm1.adition.com
-ad4.arixo.shop
 ad4.bigmir.net
 ad4.com.cn
 ad4.on.cc
@@ -9298,6 +9293,7 @@ adn.porndig.com
 adn.static-files.com
 adn.tukif.com
 adnade.net
+adname.ru
 adnami.io
 adnami2.io
 adnamo.net
@@ -10260,6 +10256,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -11645,7 +11642,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -15359,7 +15355,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -16391,7 +16387,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -29237,7 +29232,6 @@ blackedsubjected.com
 blackeycontemn.cfd
 blackforestdecor.evergage.com
 blackfridaymegastore.com
-blackfridaysales.ro
 blackhat.be
 blackhawknet.tt.omtrdc.net
 blackhead35.com
@@ -31614,7 +31608,6 @@ bulginglair.com
 bulgingreact.com
 buliang121.cc
 buliang168.cc
-buliang172.cc
 buliang24.cc
 buljlwaclnocq.site
 bulk.ninjawrecks.me
@@ -35634,7 +35627,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -38222,6 +38214,7 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -70150,6 +70143,7 @@ g.baidu.com
 g.bbe-insider.com
 g.beesbuzz.biz
 g.bing.com
+g.bitauto.com
 g.blissdiamond.com
 g.bottleplus.com
 g.btc-echo.de
@@ -72640,6 +72634,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -72856,6 +72851,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -74373,6 +74369,7 @@ goweb.de
 gowith.g2afse.com
 gownbea.icu
 gowofhdmdtdhi.online
+gowoman.ru
 gowst.matson.nl
 goxfyr.popy.jp
 goxuptilts.cyou
@@ -87312,6 +87309,7 @@ images.learn.follett.com
 images.learn.hitachiconsulting.com
 images.learn.internationalsosfoundation.org
 images.learn.pharmacyclics.com
+images.learn.queenslibrary.org
 images.learn.shredit.com
 images.learn.unisourceworldwide.com
 images.learn.vmware.com
@@ -97686,6 +97684,7 @@ lbkvxrzvqveom.online
 lblscpmfxuzqq.space
 lbmznmoboxffo.online
 lbn.mybluehost.me
+lbn.ru
 lbnku.doggielawn.com
 lbnrrh.autouncle.dk
 lborikfrxkooz.online
@@ -115305,6 +115304,7 @@ metrics.prod.cvshealth.com
 metrics.prod.ext-svc.rover.com
 metrics.production.collecting.com
 metrics.production.parentsquare.com
+metrics.products.omya.com
 metrics.professionalequipment.com
 metrics.profi-shop-franz.de
 metrics.profishop.nl
@@ -116726,6 +116726,7 @@ miniapp-ad.cdn.bcebos.com
 miniapp.bilibili.com
 miniast.com
 minibilling.com
+minidoc.ru
 minigame.vip
 minigame5-normal-hl.zijieapi.com
 minigame5-normal-lq.zijieapi.com
@@ -128754,6 +128755,7 @@ old.indoleads.com
 old.kurs.com.ua
 old.livejasmin.com
 old.umcl.us
+old2.pornosporn.com
 oldckd.vb.com.br
 oldcname.ieasyclick.net
 olderdisciplinary.com
@@ -131629,6 +131631,7 @@ p2.wncit.com
 p20190001.demdex.net
 p21-ad-sg.ibyteimg.com
 p215223.clksite.com
+p215223.inclk.com
 p216157.clksite.com
 p220333.clksite.com
 p232207.clksite.com
@@ -132329,7 +132332,6 @@ parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
 parbatekolkozyimblaze.qpon
-parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -136795,6 +136797,7 @@ pornoheat.com
 pornojux.com
 pornomasse.com
 pornopunch.com
+pornorunet.ru
 pornovidshd.com
 pornpics.chat
 pornsensei.com
@@ -136907,6 +136910,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -150507,6 +150511,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.draqarys.com
@@ -153306,6 +153311,7 @@ scene.vip.xunlei.com
 scenicapparel.com
 scenicchicago.com
 scenicdrops.com
+sceno.ru
 scented-cash.pro
 scented-leather.com
 scentedkindly.com
@@ -156920,7 +156926,6 @@ server.coolcatalog.net
 server.coollikemama.com.br
 server.copasurfers.com
 server.coracaodogigante.com.br
-server.coredenz.com
 server.corrienne.com
 server.cosmicaventura.com.br
 server.costurandomagia.com.br
@@ -165237,6 +165242,7 @@ smartanalytics.io
 smartass.g2afse.com
 smartbid.ai
 smartblocker.org
+smartbn.ru
 smartcam.adt-worldwide.com
 smartcanvas.net
 smartcard-apps-in.allawnos.com
@@ -172970,6 +172976,7 @@ spurrerklamath.shop
 spurtlecucuyo.com
 spurtshrubvending.com
 spurtvastsummer.com
+sputnik1.ru
 sputumshrog.cyou
 spv-chidc2.outbrain.com
 spv-nldc1.outbrain.com
@@ -175195,6 +175202,7 @@ ss.maxis.dk
 ss.maysaafragrances.co.uk
 ss.mbagtp.com.au
 ss.mc-importen.dk
+ss.mcgendigital.com
 ss.meadlumber.com
 ss.medexsupply.com
 ss.medicalsbd.com
@@ -177268,6 +177276,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -178116,6 +178125,7 @@ sst.brepen.sk
 sst.brevixshop.com
 sst.brewberrycoffee.com
 sst.bright-footwear.com
+sst.brightauctions.com
 sst.brightcompetitions.co.uk
 sst.brightcovers.com
 sst.brighthorizonspsychiatry.com
@@ -194760,6 +194770,7 @@ tbm.snssdk.com
 tbmgyz.centerparcs.de
 tbmods.ru
 tbmoxtvskajqz.space
+tbn.ru
 tbp.be-performance.com
 tbpot.com
 tbpqwn.thestones.co.kr
@@ -197129,6 +197140,7 @@ tizernaya-reklama.ru
 tiznmykuxnu.in
 tizofvtuqo.com
 tizru.com
+tizy.ru
 tizzywaygang.shop
 tj-adc.wtzw.com
 tj.dushu.ru
@@ -203253,6 +203265,7 @@ tradplusad.com
 trafcfy.com
 trafego.activelife.com.br
 trafego.arcom.com.br
+traff.ru
 traffaret.com
 traffbiz.ru
 traffboost.net
@@ -203874,6 +203887,7 @@ trends.mobile.sina.cn
 trends.newsmaxwidget.com
 trends.privacywall.org
 trends.revcontent.com
+trendsbongo.com
 trendy-video-app.com
 trendypersons.com
 trenrasius.com
@@ -206506,6 +206520,7 @@ ub6weu52p.com
 ubacollect-drcn.cloud.dbankcloud.cn
 ubar-pro4.ru
 ubbfatevovpkd.site
+ubbfpm.com
 ubbsaxcfvmhmj.online
 ubcaih.xlmoto.dk
 ubdbja.bellaboho.com
@@ -212549,6 +212564,7 @@ vongquaymienphi.com
 vonht.foragehyperfoods.com
 vonkol.com
 vonvdn.garden.ne.jp
+voob.ru
 vooculok.com
 vooodkabelochkaa.com
 voordeel.ad.nl
@@ -224757,6 +224773,7 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
@@ -226004,6 +226021,7 @@ zoaxnpworejgn.site
 zobgqg.sirobari.jp
 zobtmj.kiddies-kingdom.com
 zocwfosbxwqru.website
+zoda.ru
 zodalt.com
 zodarpnpsrnds.website
 zodescdmuxxqq.site
