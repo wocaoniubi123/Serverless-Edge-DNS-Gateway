@@ -3555,6 +3555,7 @@ a.clickdata.37wan.com
 a.clickintact.com
 a.clicktripz.com
 a.closerpets.co.uk
+a.com.cn
 a.crazyporn.xxx
 a.crme7srv.com
 a.csfd.cz
@@ -9051,6 +9052,7 @@ adm.introni.no
 adm.ktmrtb.com
 adm.leju.com
 adm.leju.sina.com.cn
+adm.leju.sink.net
 adm.myzaker.com
 adm.phunusuckhoe.vn
 adm.phunuvagiadinh.vn
@@ -10151,7 +10153,6 @@ ads.balkanweb.com
 ads.bandzone.cz
 ads.baoangiang.com.vn
 ads.baobinhduong.vn
-ads.baobinhthuan.com.vn
 ads.baocamau.vn
 ads.baocantho.com.vn
 ads.baodatviet.vn
@@ -10268,7 +10269,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -11654,7 +11654,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -15368,6 +15367,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -15484,7 +15484,6 @@ alnaddy.com
 alnathmeetly.com
 alngdwetstglj.site
 alnhfq9ov4.com
-alnokhba-labs.com
 alnop.skidznyc.com
 alnurswyejuzu.website
 alnusonmun.cfd
@@ -16400,7 +16399,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -22313,6 +22311,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -35795,6 +35794,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -60606,6 +60606,7 @@ eldj-defender.pro
 eldoradottfha.dataplane.rudderstack.com
 eldos.xyz
 ele26126.jscrambler.com
+elearningmine.com
 eleavers.com
 elecltrum.org
 electcocktail.com
@@ -74801,6 +74802,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -77497,6 +77499,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -115228,7 +115231,6 @@ metrics.okcashbag.com
 metrics.olgaintimates.com
 metrics.omegawatches.com
 metrics.omniture.com
-metrics.omya.com
 metrics.onceuponafarmorganics.com
 metrics.ondacero.es
 metrics.onewegg.com
@@ -132394,7 +132396,6 @@ parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
 parbatekolkozyimblaze.qpon
-parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -136976,7 +136977,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -177353,7 +177353,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
@@ -190696,7 +190695,6 @@ survey.admaster.com.cn
 survey.alchemer.eu
 survey.chartbeat.net
 survey.communication.qualfon.com
-survey.g.doubleclick.net
 survey.interquest.com
 survey.kemetlegacy.io
 survey.mazda.com.au
@@ -192942,6 +192940,7 @@ t.virginiasports.com
 t.visby.pl
 t.visit.disneydestinations.com
 t.vistasancheztrancon.com
+t.visx.net
 t.vitaliasupplements.co
 t.vitori.de
 t.voyages-sncf.com
@@ -217997,7 +217996,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -218139,6 +218137,7 @@ www.airybotsh.pro
 www.airypathsq.name
 www.akasztofa.com
 www.aldarcommunications.com
+www.allanalpass.com
 www.allinvideo.com
 www.allworldinfo5.ru
 www.almirallhcp.com
