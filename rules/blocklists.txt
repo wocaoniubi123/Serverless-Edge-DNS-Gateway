@@ -10197,7 +10197,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -11654,6 +11653,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -15366,8 +15366,6 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -17258,6 +17256,7 @@ analytics.folloze.com
 analytics.fontanka.ru
 analytics.fontstruct.com
 analytics.foodanddrinkstyling.com
+analytics.football360.ir
 analytics.for.sap
 analytics.foresee.com
 analytics.formassembly.com
@@ -18329,7 +18328,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -22455,6 +22453,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -35629,6 +35628,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35769,6 +35769,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -38214,7 +38215,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -38922,6 +38922,7 @@ clprfkljfcmnm.site
 clprr.com
 clpx.l2l11bqg1myq1ytu2jck3.cyou
 clrci.canadagoose.com
+clrpdhptoddatj49.pro
 clrqbqtonradt.online
 clrstm.com
 clrt.ai
@@ -72645,6 +72646,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -77466,6 +77468,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -121600,7 +121603,6 @@ naytev.com
 naywardilleism.cfd
 nazarickol.com
 nazcu.winc.com
-nazkiamedia.com
 naznfshwgtkyk.space
 nazrul.hashninefurniture.com.au
 nb-s.lemnisk.co
@@ -122822,7 +122824,6 @@ nfxonb.icu
 nfzetr.shop.bestseller.com
 nfzxcsyycurrk.site
 ng-vn-notice.gameitop.com
-ng.com
 ng2y405w3y.com
 ng3.ads.warnerbros.com
 ngabq7df9.com
@@ -136855,6 +136856,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -141858,6 +141860,7 @@ qxummanifgrjp.site
 qxvqhy.miliboo.es
 qxw.mybluehost.me
 qxwoiv.com
+qxx8j3z2vnu1e3.e4obp715nx9rlp.cyou
 qxyvvfwjiqonx.online
 qxzfdeagblwys.space
 qyatej.bocage.fr
@@ -151065,6 +151068,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -169888,6 +169892,7 @@ sms.ultimate-success-emea.test.ajo.adobe.com
 sms.workshop.adobesandbox.com
 sms.yashir.5555555.co.il
 sms2.mc-stage.creditacceptance.com
+smsafelink.com
 smsapiens.com
 smscentro.com
 smscloob.com
@@ -177185,7 +177190,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -180522,7 +180527,6 @@ sst.openpropertygroup.com
 sst.ophira.se
 sst.opstream.ai
 sst.optimisticproductions.co.uk
-sst.opusitalia.com
 sst.oranjebitter-rotterdam.nl
 sst.orazosafety.com
 sst.orbicointernship.com
@@ -184982,7 +184986,6 @@ stape.milvus.com.br
 stape.minasbrasilplaygrounds.com.br
 stape.mindawakenacademy.com
 stape.mindfulness-academy.it
-stape.mindheartacademy.com
 stape.minhabiblioteca.com.br
 stape.minhacasaemportugal.com.br
 stape.minhaconstrucaofinanciada.com.br
