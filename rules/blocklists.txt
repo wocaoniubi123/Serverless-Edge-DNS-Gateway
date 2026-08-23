@@ -10264,7 +10264,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15367,7 +15366,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -18333,7 +18332,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -22308,7 +22306,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -22456,6 +22453,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -35637,7 +35635,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35931,6 +35928,7 @@ cdnfreemalva.com
 cdngain.com
 cdnhst.xyz
 cdnil.clarisite.com
+cdnimg.liehu.ijinshan.com
 cdnis.hyperpromote.com
 cdnjs.atresmedia.com
 cdnjs.contentsprinter.xyz
@@ -43372,7 +43370,6 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -51832,7 +51829,6 @@ data.service1.santander.co.uk
 data.services.callme.dk
 data.services.chowtaifook.com
 data.services.commsec.com.au
-data.services.heartsonfire.com
 data.services.mittele.dk
 data.services.telia.dk
 data.servicing.key.com
@@ -72683,6 +72679,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -80562,7 +80559,6 @@ gtm.westwoodinstruments.com
 gtm.wfads.com.br
 gtm.whitegoldhaircare.com.au
 gtm.whitemountains.gr
-gtm.whiteslumber.com
 gtm.widowmakers.se
 gtm.wifeed.com.br
 gtm.wildfoods.co
@@ -81860,7 +81856,6 @@ haleytest.actonia.net
 halfamenusesuresby.cfd
 halfdemocratic.com
 halffullglassnews.com
-halfhategame.live
 halflinaleger.shop
 halfpricefurniturestore.com
 halfpriceozarks.com
@@ -86721,7 +86716,6 @@ ijgtudf.kozii.com
 ijh.mybluehost.me
 ijhlca.lulus.com
 ijifwb.green-acres.fr
-ijinshan.com
 ijj161xjtohopxh33h7y1ryiub.cfd
 ijjlo.raphablends.com
 ijjnyauzmqxoq.website
@@ -100250,7 +100244,6 @@ load.analytics.ventivegroup.com
 load.analytics.videaai.app
 load.analytics.weareautoheart.com
 load.analytics.welhof.com
-load.analytics.wheatandsons.com
 load.analyticsdev.makehome.pl
 load.analyticsla.abbeyroadinstitute.com
 load.analyticsmia.abbeyroadinstitute.com
@@ -110251,7 +110244,6 @@ marketing.nibusinessparkleasing.com
 marketing.nicepak.com
 marketing.nicholaswealth.com
 marketing.nimblevox.com
-marketing.nlcgroup.us.com
 marketing.nona.digital
 marketing.nopec.org
 marketing.norsat.com
@@ -110468,7 +110460,6 @@ marketing.sealyeyecenter.com
 marketing.seatrade-maritime.com
 marketing.sectra.com
 marketing.securakey.com
-marketing.securancecorp.com
 marketing.sedgwick.com
 marketing.seeclearfield.com
 marketing.seemonterey.com
@@ -112555,6 +112546,7 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -124392,7 +124384,6 @@ nsk.mybluehost.me
 nskuxp.life
 nskyfqigltino.space
 nsl.ruidhs.cfd
-nslee.jenshansen.com
 nslfhb.icu
 nslhy.broadwaysanjose.com
 nsm-corp.com
@@ -133316,7 +133307,6 @@ paxzslunbisvh.online
 pay-ads.com
 pay-click.ru
 pay-hit.com
-pay.cld36a.top
 pay.com
 pay.getadmiral.com
 pay.holaq.com
@@ -136925,7 +136915,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -151157,7 +151146,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -167613,7 +167601,6 @@ smetrics.litfulo.com
 smetrics.liveitup.com
 smetrics.liverpool.com.mx
 smetrics.livetmedsklerose.dk
-smetrics.livingspaces.com
 smetrics.lizearle.com
 smetrics.lloydslist.com
 smetrics.lloydslistintelligence.com
@@ -177289,6 +177276,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -190238,6 +190226,7 @@ suhvoulwtaxfj.site
 suibianmaimaicom.com
 suicidalruse.com
 suihayz.cfd
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -194832,7 +194821,6 @@ tcare.today
 tcbox.baidu.com
 tcbps.ellos.us
 tcbtus.opodo.com
-tcc.burrowfarmestate.com
 tcc.celticroutes.com
 tcc.demdex.net
 tcc.thecustomco.com.au
@@ -195922,7 +195910,6 @@ test.atteeb.com
 test.bevital.no
 test.clearbalanceguide.com
 test.contact.alphabet.com
-test.customize.titanfactorydirect.com
 test.e2eche2.test.ajo.adobe.com
 test.emailwarmup.com
 test.fashionnattire.com
@@ -215810,7 +215797,6 @@ whetteddawkin.cfd
 whewlwattape.cfd
 wheybkethenic.qpon
 wheyeymesial.cfd
-whf.bz
 whfpbc.99.com.cn
 whglicfodltns.space
 whh.mybluehost.me
@@ -226317,6 +226303,7 @@ zs.voyage-prive.com
 zs1.cnzz.com
 zs10.cnzz.com
 zs11.cnzz.com
+zs12.cnzz.com
 zs13.cnzz.com
 zs14.cnzz.com
 zs15.cnzz.com
