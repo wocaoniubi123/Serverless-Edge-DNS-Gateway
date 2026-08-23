@@ -94,6 +94,7 @@
 058d79990c.com
 0597qc.com
 05b9daf35c.com
+05block.com
 05e76a16b8.5e3d5f480f.com
 05f3b6b187.com
 0618b93770.com
@@ -1302,7 +1303,6 @@
 2xtzteoi16nl81kgk.cfd
 2xx63f0bfy.com
 2y2lttjs.hair
-2y2s.com
 2ykz4plj.xyz
 2yqcaqbfnv.nextgen.shareablee.com
 2ytoxb1r7.com
@@ -2326,7 +2326,6 @@
 612fc22a02.com
 613f15a070.com
 6143e5d2b7.com
-616book.com
 617529c296.5e14ab617d.com
 61d1b409d4.com
 61dp.com
@@ -2465,7 +2464,6 @@
 6d4b8xvqzk.medicaldevicehq.com
 6d8daaf48f.com
 6drq9rfn.xyz
-6e29a6a58fec81d11.cfd
 6e29a6a58fec81d12.cfd
 6e29a6a58fec81d9.cfd
 6e29abca70.com
@@ -7230,6 +7228,7 @@ ad-plus.cn
 ad-plus.com.tr
 ad-pool.shiyuegame.com
 ad-production-stage.com
+ad-pulse.kakaobank.cloud
 ad-r.soulapp.cn
 ad-recommend.com
 ad-resources.brandcdn.com
@@ -10265,6 +10264,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -12594,6 +12594,7 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
+advariant.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
 advbroker.ru
@@ -15367,6 +15368,8 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -18332,6 +18335,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -23372,7 +23376,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -38944,7 +38947,7 @@ clprfkljfcmnm.site
 clprr.com
 clpx.l2l11bqg1myq1ytu2jck3.cyou
 clrci.canadagoose.com
-clrpdhptoddatj49.pr.kakaobank.cloud
+clrpdhptoddatj49.pro
 clrqbqtonradt.online
 clrstm.com
 clrt.ai
@@ -41895,7 +41898,6 @@ coolestinstead.com
 coolestreactionstems.com
 coolguesthouse.com
 cooliecroquet.com
-cooling.nexustradebd.com
 coolingvaluer.com
 coolio.grashausprojects.de
 coolishrocked.com
@@ -43382,6 +43384,7 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -65329,13 +65332,16 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -66242,7 +66248,6 @@ felmat.net
 felonesbeman.com
 felonspicuda.cfd
 felor.xyz
-felphi.com
 felterprefet.qpon
 feltingguilfat.qpon
 feltluteal.cyou
@@ -67076,6 +67081,7 @@ findav.net
 findav.org
 findbetterresults.com
 findcalculator.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -69157,6 +69163,7 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -70216,7 +70223,6 @@ g.baidu.com
 g.bbe-insider.com
 g.beesbuzz.biz
 g.bing.com
-g.bitauto.com
 g.blissdiamond.com
 g.bottleplus.com
 g.btc-echo.de
@@ -72697,7 +72703,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -72914,6 +72919,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -83686,6 +83692,7 @@ hksnd.georgiemane.com
 hktracker.hankookilbo.com
 hkvbsazrdhhaq.online
 hkvwug.beautyexperience.com
+hkwl.com
 hkwrwuqlcpelq.site
 hkxehfiynztiu.website
 hkxkdpxlemboe.space
@@ -92057,6 +92064,7 @@ jarwressaraced.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
+jasim.luxurydor.com
 jasjas.xyz
 jaskhuczzexoh.site
 jaslenshops.com
@@ -97678,7 +97686,6 @@ lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
 lazada77.com
 lazadaapp.shop
-lazalogistics.ph
 lazboy.demdex.net
 lazesheitelprawner.qpon
 laziedqaidpavy.cfd
@@ -102989,6 +102996,7 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
+load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -103324,7 +103332,6 @@ load.ss.asaclean.com
 load.ss.asento.dk
 load.ss.athenas.no
 load.ss.atmintiesakademija.lt
-load.ss.aura-stores.com
 load.ss.avalon.com.ua
 load.ss.avalonriskmanagement.com
 load.ss.aystudios.dk
@@ -136959,7 +136966,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -156683,6 +156689,7 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
+server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -158869,6 +158876,7 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
+server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -163816,6 +163824,7 @@ shoukigaigoors.net
 shoulderinedible.com
 shoutwiki.club
 shoversuersjupard.cyou
+shovon.zelonii.com
 show-3.mediav.com
 show-api.1sapp.com
 show-creative1.com
@@ -168755,6 +168764,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -174540,7 +174550,6 @@ ss.farmeci.com
 ss.fashiondeluxe.dk
 ss.favouritesqueeze.com
 ss.fayrafashion.com
-ss.fbgempa100b.cfd
 ss.fcrosengard.se
 ss.felipelopespedra.com.br
 ss.ferderica.com
@@ -177332,7 +177341,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -181155,6 +181163,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -202033,7 +202042,6 @@ tracking.dtiserv2.com
 tracking.dueelleweb.it
 tracking.dylansnoddon.com
 tracking.e.buffalobills.com
-tracking.e.pepsicopartners.com
 tracking.eagleridgecapital.com
 tracking.eaglestrategies.com
 tracking.easydream.vn
@@ -217970,7 +217978,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -224852,6 +224859,7 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
